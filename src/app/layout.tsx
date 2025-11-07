@@ -7,7 +7,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import "./globals.css";
 
 export const metadata = {
-  title: "Evolve-UI",
+  title: "EVOLVE-UI",
   description: "From API to UI — where pixels meet products.",
 };
 

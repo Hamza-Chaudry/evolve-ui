@@ -19,7 +19,7 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-5 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {/* Sidebar Navigation */}
         <Card className="md:col-span-1 p-4 h-fit">
           <nav className="space-y-1">
